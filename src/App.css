@@ -1,0 +1,37 @@
+*{
+  margin: 0 auto;
+  font-weight: 300;
+  font-family: sans-serif;
+}
+.Monday{
+  width: 80%;
+}
+.full-paragraph-component{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  padding: 0px 32px;
+  max-width: 1440px;
+  margin: auto;
+}
+.full-paragraph{
+  word-break: break-word;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.full-paragraph .title-wrapper{
+  margin-bottom:16px;
+}
+.full-paragraph-wrapper{
+  width: 100%;
+}
+.MuiBox-root{
+  text-align: right;
+}
+.TabValue{
+  width: 40%;
+  float: right;
+  position: relative;
+  top: 10em;
+}
